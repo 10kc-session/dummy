@@ -1,0 +1,10 @@
+p {
+    font-family: Roboto, Arial;
+    /*Here Arial is a back up font if roboto fails to load*/
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+body
+{
+    margin: 0;
+}
